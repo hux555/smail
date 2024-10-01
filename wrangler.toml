@@ -14,6 +14,6 @@ id = "775e8a7c90ec4b66b794787809789e08"
 [[d1_databases]]
 binding = "DB"
 database_name = "smail"
-database_id = "bae64391cf1c4097ae7533e4159825be"
-preview_database_id = "f591d1c7-0060-4d35-a146-099ec27b49b1"
+database_id = "8688c6ea-497c-45f9-ab4e-7a59cc88292f"
+preview_database_id = "8688c6ea-497c-45f9-ab4e-7a59cc88292f"
 migrations_dir = "app/drizzle"
